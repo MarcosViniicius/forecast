@@ -8959,3 +8959,4 @@ telegram.error.BadRequest: Query is too old and response timeout expired or quer
 2025-05-28 18:32:59,946 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8166969292:AAGSC-Gg1RzoyK_y3N4oz-easvGu7lwQeUE/getUpdates "HTTP/1.1 200 OK"
 2025-05-28 18:33:10,121 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8166969292:AAGSC-Gg1RzoyK_y3N4oz-easvGu7lwQeUE/getUpdates "HTTP/1.1 200 OK"
 2025-05-28 18:33:20,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8166969292:AAGSC-Gg1RzoyK_y3N4oz-easvGu7lwQeUE/getUpdates "HTTP/1.1 200 OK"
+2025-05-28 18:45:03,246 - config - ERROR - TELEGRAM_BOT_TOKEN não configurado
